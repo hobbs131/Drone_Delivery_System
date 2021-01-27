@@ -10,4 +10,3 @@
   - Observers are used to notify the user of the process of the drone: delivering, idle, delivered package, etc.
   - Drone battery drains as the simulation progresses. If the battery runs out, a recharge drone will come, recharge the drone to maximum capacity, and the original drone will continue the delivery.
   - Regression, unit, and integration tests created to verify correctness.
-
