@@ -1,0 +1,3 @@
+# Uncomment to use Iteration 2 support code
+ITERATION=2
+ITERATION_DEFINES=-DANVIL$(ITERATION) -DENTITY_USE_VECTOR
