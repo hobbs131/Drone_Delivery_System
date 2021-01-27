@@ -1,0 +1,7 @@
+Model #,Mass (kg),Max Speed (km/h),Base Acceleration (m/s^2),WeightCapacity (kg),Base Battery Capacity (seconds)
+Q-36-01,50,60,4,10,300
+Q-36-02,200,55,4.5,20,20
+Q-36-03,5,40,5,10,30
+Q-36-04,120,30,6,19,90
+Q-36-05,150,60,3,15,120
+Q-36-06,50,40,5,10,1000
